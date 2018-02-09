@@ -1,7 +1,2 @@
 Gitの練習を始めます
-基本的なワークフローを学びます。
-・git add
-・git commit
-git難しいね
-・git remove
-・git status
+基本的なワークフローを学びます
